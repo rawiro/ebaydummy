@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  price: 1.5
+  duration: 1
+  bank_account: MyString
+  bank_blz: MyString
+  bank_owner: MyString
+
+two:
+  title: MyString
+  description: MyText
+  price: 1.5
+  duration: 1
+  bank_account: MyString
+  bank_blz: MyString
+  bank_owner: MyString
