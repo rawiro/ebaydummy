@@ -7,6 +7,17 @@ gem 'rails', '3.0.5'
 
 gem 'sqlite3'
 
+#http://relishapp.com/rspec/rspec-rails/v/2-4
+group :test, :development do
+	gem "rspec-rails", "~>2.4"
+end
+
+#http://github.com/brynary/webrat/wiki
+group :test do
+	gem 'rspec'
+	gem 'webrat'
+end
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
